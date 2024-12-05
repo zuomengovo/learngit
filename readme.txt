@@ -5,3 +5,4 @@ Git tracks changes of files.
 lwd.
 zmq.
 fkm.
+Creating a new branch is quick & simple.
